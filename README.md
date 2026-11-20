@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1695-maximum-erasure-value) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/2540-minimum-common-value) |
